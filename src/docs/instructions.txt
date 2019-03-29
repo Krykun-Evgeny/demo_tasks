@@ -1,0 +1,16 @@
+1. Установить последние версии браузеров "Chrome", "Firefox";
+2. Загрузить последние версии webdrivers: "chromedrive", "geckodriver";
+3. Установить "python 3X";
+5. Добавить записи путей до webdrivers, "\python3X\","\python3X\Scripts\" в переменную среды: "Path";
+4. С помощью "pip" в командной консоли, установить пакеты и библиотеки с файла: "packages.txt":
+   cd "path to packages.txt"
+   python -m pip install -r packages.txt
+5. Выгрузить тестовый проект из git-repository;
+6. Открыть проект в "PyCharm";
+7. Создать "Run\Debug Configuration":
+	7.1 Добавить "Python tests" -> "pytest";
+	7.2 Определить "Script path" до файла тест-кейса: "test_google.py";
+	7.3 Добавить "--alluredir ./results" в "Additional Arguments";
+8. Запустить тест;
+9. В папке "results" будет создан xml-отчет;
+	

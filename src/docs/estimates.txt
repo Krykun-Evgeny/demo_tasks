@@ -1,0 +1,7 @@
+# | Task Description     | Start      | End        | Spent time (hours) | Comment            |
+1.| Learning of patterns | 27.03.2019 | 29.03.2019 | 6					| It is not finished |
+2.| Test Design          | 27.03.2019 | 29.03.2019 | 6					| It is not finished |
+3.| Realization of test  | 27.03.2019 | 29.03.2019 | 7					| It is not finished |
+4.| Reporting 			 | 29.03.2019 | 29.03.2019 | 1					| It is not finished |
+______________________________________________________________________________________________
+Overall spent time - 20 hours
